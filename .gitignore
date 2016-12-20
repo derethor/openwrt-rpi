@@ -1,4 +1,5 @@
 .ccache
 .subversion
+openwrt/.*
 openwrt/src/*
 openwrt/images/*
