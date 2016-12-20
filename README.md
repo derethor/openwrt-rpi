@@ -25,7 +25,7 @@ cd openwrt/src
 
 git clone https://github.com/openwrt/openwrt.git master
 
-cp <config-diff> .config
+cp *config-diff* .config
 
 make defconfig
 
